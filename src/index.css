@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.87);
+  /*Cores da Logo do LAB365- Formação FullStack*/
+  /*background: rgb(186,113,235);
+  background: linear-gradient(90deg, rgba(186,113,235,1) 8%, rgba(141,219,232,1) 60%, rgba(69,143,244,1) 89%);*/
+  background: #FFD211;
+  background: linear-gradient(to right, #FFD211 0%, #CD3073 50%, #0d0274 100%);
+}
+
+
+body {
+  display: flex;
+  place-items: center;
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 25px;
+  line-height: 1.1;
+}
